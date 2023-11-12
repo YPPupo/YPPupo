@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my personal growth.<br>🎓 Computer Science Engineer in the University of Informatics Sciences (UCI).<br>💼 1+ year of experience as a developer.<br>🌱 Learning something new every day<br>⚡ Fanatic of the use of javascript technologies
+🔭 I’m currently working on my personal growth.<br>🎓 Computer Science Engineer in the University of Informatics Sciences (UCI).<br>💼 2+ year of experience as a developer.<br>🌱 Learning something new every day<br>⚡ Fanatic of the use of javascript technologies
 
 
 ## 🌐 Socials:
