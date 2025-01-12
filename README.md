@@ -1,9 +1,9 @@
-# 👋 Hello, World! I'm Yosniel Pupo
+# 👋 Hello, World! I'm Yasel Pérez Pupo
 
 ## 🚀 About Me
 - 🌱 Passionate about growth, both personal and professional.
 - 🎓 Computer Science Engineer from the University of Informatics Sciences (UCI).
-- 💼 2+ years of experience in software development.
+- 💼 3+ years of experience in software development.
 - ⚡ Addicted to learning new technologies, especially in the JavaScript ecosystem.
 - 🎯 Focused on delivering clean, efficient, and scalable code.
 
@@ -52,10 +52,5 @@
 </div>
 
 ---
-
-## 🌟 Fun Facts
-- 🎸 Music lover and occasional guitar player.
-- 📚 Always curious, I enjoy reading about tech trends, psychology, and philosophy.
-- 🎮 Avid gamer when I'm not coding.
 
 [![](https://visitcount.itsvg.in/api?id=YPPupo&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
